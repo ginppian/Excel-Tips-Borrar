@@ -59,7 +59,7 @@ y seleccionamos <b>Todos los comandos</b>
 </p>
 
 <p align="justify">
-	Nos van a aparecer muchisimos comandos, deslizamos hasta <i>encontrar</i> el ícono de <i>Borrar Todo</i>
+	Nos van a aparecer muchisimos comandos, deslizamos hasta <i>encontrar</i> el ícono de: <i>Borrar Todo</i>
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ Ahora podremos ver que el ícono ya se encuentra en nuestra barra de <i>acceso r
 </p>
 
 <p align="justify">
-	Sólo basta con seleccionar las <i>areas</i> que nos interesa borrar, y dar click en la gomita.
+	Sólo basta con seleccionar las <i>areas</i> que nos interesa borrar.
 </p>
 
 para seleccionar más de un área mantenemos presionada la tecla:
@@ -96,7 +96,7 @@ ctrl
 </p>
 
 <p align="justify">
-	Sólo basta con seleccionar las <i>areas</i> que nos interesa borrar, y dar click en la gomita.
+	Una vez seleccionadas las <i>areas</i> que nos interesa borrar, damos click en la gomita.
 </p>
 
 <b>Voilá</b> 👨🏻‍🍳👨🏻‍🍳👨🏻‍🍳
