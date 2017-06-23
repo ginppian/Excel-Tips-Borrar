@@ -16,6 +16,6 @@ Excel Tips
 * Ejemplo 🤷🏽‍♂️:
 
 <p align="justify">
-	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img1.png" width="605" height="656">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img1.png" width="1211" height="656">
 </p>
 
