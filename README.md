@@ -34,7 +34,8 @@ Excel Tips
 </p>
 
 <p align="justify">
-	Archivo > Opciones
+	Archivo > Opciones<br>
+	Después a <i>Barra de herramientas de acceso rápido</i>
 </p>
 
 <p align="justify">
@@ -42,7 +43,64 @@ Excel Tips
 </p>
 
 <p align="justify">
-	Después a <i>Barra de herramientas de acceso rápido</i>
+	Picamos en la flechita donde dice: <i>COMANDOS MÁS UTILIZADOS</i> 
 </p>
 
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img3.png" width="1211" height="450">
+</p>
 
+<p align="justify">
+y seleccionamos <b>Todos los comandos</b>
+</p>
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img4.png" width="1211" height="450">
+</p>
+
+<p align="justify">
+	Nos van a aparecer muchisimos comandos, deslizamos hasta <i>encontrar</i> el ícono de <i>Borrar Todo</i>
+</p>
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img5.png" width="1211" height="450">
+</p>
+
+<p align="justify">
+y a continuación clickeamos <i>Agregar</i> y <i>Aceptar</i>
+</p>
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img6.png" width="1211" height="450">
+</p>
+
+<p align="justify">
+Ahora podremos ver que el ícono ya se encuentra en nuestra barra de <i>acceso rápido</i>
+</p>
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img7.png" width="1211" height="450">
+</p>
+
+<p align="justify">
+	Sólo basta con seleccionar las <i>areas</i> que nos interesa borrar, y dar click en la gomita.
+</p>
+
+para seleccionar más de un área mantenemos presionada la tecla:
+```
+ctrl
+```
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img8.png" width="1211" height="450">
+</p>
+
+<p align="justify">
+	Sólo basta con seleccionar las <i>areas</i> que nos interesa borrar, y dar click en la gomita.
+</p>
+
+<b>Voilá</b> 👨🏻‍🍳👨🏻‍🍳👨🏻‍🍳
+
+<p align="justify">
+	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img9.png" width="1211" height="450">
+</p>
