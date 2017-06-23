@@ -10,5 +10,12 @@ Excel Tips
 ### Tip: Borrar un area
 
 <p align="justify">
-	Muchas veces queremos seleccionar toda una columna y <b>ordenar</b> una la <i>lista</i>. Esta lista puede ser numérica, alfabética o por fecha:
+	A menudo hacemos pruebas en diversas regiones de la hoja y si no nos sale las omitimos y tomamos otra <i>región</i> pero cuando terminamos esas partes <i>incomodan</i> y queremos <b>borrarlas</b>.
 </p>
+
+* Ejemplo 🤷🏽‍♂️:
+
+<p align="justify">
+	<img src="" width="" height="">
+</p>
+
