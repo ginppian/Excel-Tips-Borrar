@@ -104,3 +104,7 @@ ctrl
 <p align="justify">
 	<img src="https://github.com/ginppian/Excel-Tips-Borrar/blob/master/imgs/img9.png" width="1211" height="450">
 </p>
+
+## Contacto
+
+Twitter: @ginppian
